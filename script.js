@@ -9,7 +9,7 @@ return x%300;
 }
 
 function read() {
-if (getX()<100) {
+if (getX()<120) {
 jump();
 }
 }
